@@ -1,4 +1,4 @@
-name: Disable Workflow Video
+ name: Disable Workflow Video
 
 on:
   push:
